@@ -1,0 +1,4 @@
+split,patients,patients_HGG,patients_LGG,slices,slices_HGG,slices_LGG,slices_NoTumor,patients_in_other_partitions
+train,369,293,76,23882,11943,3023,8916,369
+val,369,293,76,5118,2559,648,1911,369
+test,369,293,76,5118,2560,648,1910,369
